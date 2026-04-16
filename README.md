@@ -14,10 +14,10 @@ Ingeniero de Sistemas en formación | Fullstack Developer | Backend & DevOps
 ## 📌 Proyectos destacados
 
 * 🏨 Hotel Management System
-* 🐶 Plataforma de Mascotas Inteligente
+* 🐶  media-system-SQL
 * 📦 Inventory Management System
 
 ## 📫 Contacto
 
-* LinkedIn: (ponlo)
-* Email: (ponlo)
+* LinkedIn: https://www.linkedin.com/in/yeimer-jose-campo-parada-7591a212a/
+* Email: yeimercampoparada@gmail.com
